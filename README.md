@@ -65,8 +65,6 @@ Looking for a backend developer apprenticeship, particularly in projects involvi
 </div>
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=zaydc&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaydc&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most used languages" />
 
 </div>
