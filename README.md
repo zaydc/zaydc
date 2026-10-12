@@ -1,28 +1,72 @@
 🇫🇷
 
-🎓 Étudiant en 3e année de BUT Informatique, orienté développement full-stack. Je conçois et déploie des applications web robustes, de l'architecture back-end jusqu'à l'intégration de briques d'intelligence artificielle, avec une attention particulière portée à la qualité logicielle et à l'organisation des projets.
+🎓 **Étudiant en 3e année de BUT Informatique**, orienté développement backend et systèmes intelligents. Je conçois des API robustes, développe des services backend et travaille sur l'intégration de solutions basées sur l'intelligence artificielle. Je m'intéresse particulièrement au **Machine Learning Engineering et au MLOps**, avec l'objectif d'approfondir le déploiement, l'automatisation et la mise en production de modèles d'IA.
 
-💻 Technologies
+💻 **Technologies**
 
-React · Angular · TypeScript · JavaScript · Node.js · FastAPI · Python · PHP · PostgreSQL · MySQL · MongoDB · API REST · Pandas · NumPy · Scikit-learn · LangChain · Docker · Git · CI/CD · Scrum
+Python · FastAPI · PostgreSQL · Docker · Git · CI/CD · API REST · SQL · Pandas · NumPy · Scikit-learn · LangChain · Machine Learning · Linux · Node.js · TypeScript · JavaScript · React · Angular · PHP · MySQL · MongoDB · Scrum
 
-🎯 Objectif
+🎯 **Objectif**
 
-Recherche une alternance développeur full-stack, disponible dès que possible (rythme 1 semaine école / 1 semaine entreprise).
+À la recherche d'une alternance en développement backend, avec un intérêt particulier pour les projets intégrant l'IA, le Machine Learning et les infrastructures de déploiement. Disponible dès que possible — rythme d'une semaine en entreprise / une semaine à l'école.
+
+---
 
 🇬🇧
 
-🎓 Third-year Computer Science student (BUT) focused on full-stack development. I design and deploy robust web applications, from back-end architecture to AI integration, with strong attention to software quality and project organization.
+🎓 **Third-year Computer Science student (BUT Informatique)** focused on backend development and intelligent systems. I build robust APIs, develop backend services, and work on integrating AI-powered solutions. I am particularly interested in **Machine Learning Engineering and MLOps**, with the goal of deepening my knowledge of model deployment, automation, and production-ready AI systems.
 
-💻 Technologies
+💻 **Technologies**
 
-React · Angular · TypeScript · JavaScript · Node.js · FastAPI · Python · PHP · PostgreSQL · MySQL · MongoDB · REST APIs · Pandas · NumPy · Scikit-learn · LangChain · Docker · Git · CI/CD · Scrum
+Python · FastAPI · PostgreSQL · Docker · Git · CI/CD · REST APIs · SQL · Pandas · NumPy · Scikit-learn · LangChain · Machine Learning · Linux · Node.js · TypeScript · JavaScript · React · Angular · PHP · MySQL · MongoDB · Scrum
 
-🎯 Goal
+🎯 **Goal**
 
-Actively looking for a full-stack developer apprenticeship, available immediately (1 week school / 1 week company schedule).
+Looking for a backend developer apprenticeship, particularly in projects involving AI, Machine Learning, and deployment infrastructure. Available immediately — one week at the company / one week at university.
 
-<h2 data-importer="text" align="left">I code with</h2>
-<div data-importer="techs" align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" /> </div>
-<div data-importer="stats" align="center">
+---
 
+<h2 align="left">I code with</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most used languages" />
+
+</div>
